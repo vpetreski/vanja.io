@@ -10,16 +10,18 @@ html {
 	color: #333;
 }
 
+.section {
+	text-align: center;
+}
+
 h1 {
 	font-size: 6em;
 	margin: 0;
+	padding-left: 10%;
+	padding-right: 10%;
 }
 
 .intro p {
 	font-size: 2em;
 	margin: 0;
-}
-
-.section {
-	text-align: center;
 }
