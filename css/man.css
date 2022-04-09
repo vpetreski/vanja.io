@@ -1,0 +1,25 @@
+@import url("normalize.css");
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+html {
+	font-family: 'Courier Prime', monospace;
+	color: #333;
+}
+
+#fp-nav ul li .fp-tooltip {
+	color: #333;
+}
+
+h1 {
+	font-size: 6em;
+	margin: 0;
+}
+
+.intro p {
+	font-size: 2em;
+	margin: 0;
+}
+
+.section {
+	text-align: center;
+}
